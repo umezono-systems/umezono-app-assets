@@ -1,0 +1,1 @@
+# umezono-app-assets
